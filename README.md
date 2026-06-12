@@ -11,7 +11,7 @@ data modeling, and dashboard design skills.
 ## 📸 Dashboard Preview
 
 ### Page 1 — Executive Summary
-![Executive Summary](Revenue.png)
+![Executive Summary](page1.png)
 
 ## 📄 Pages
 ### Page 1 — Executive Summary ✅
